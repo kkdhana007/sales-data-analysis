@@ -1,4 +1,4 @@
-# Sales Data Analysis
+# SALES DATA ANALYSIS DASHBOARD
 
 ## Project Overview
 This project analyzes sales data to identify business trends, customer behavior, and sales performance. The analysis helps businesses make data-driven decisions by examining sales patterns and key performance indicators.
